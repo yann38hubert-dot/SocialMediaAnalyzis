@@ -7,8 +7,17 @@ output: html_notebook
 
 
 ## Compréhension et motivation du questionnement
-```{r}
 
+### Librairies
+```{r}
+library(ggplot2)
+library(FactoMineR)
+library(factoextra)
+```
+
+### Chargement des données
+```{r}
+data(Data)
 
 ```
 
